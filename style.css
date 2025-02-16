@@ -1,0 +1,24 @@
+h1{
+    background-color: brown; 
+    color: antiquewhite;
+    text-align: center;
+}
+/*p{
+    background-color: cadetblue;
+    font-style: italic;
+    color: chocolate;
+}*/
+#world{
+    background-color: darkslateblue;
+}
+#world1{
+    background-color: deeppink;
+}
+.grop01{
+    background-color: chartreuse;
+    color: chocolate;
+}
+.grop02{
+    background-color: red;
+    color: black;
+}
